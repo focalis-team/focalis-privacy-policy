@@ -2,7 +2,7 @@
 
 _Last updated: October 13, 2026_
 
-Focalis (“the app”) is a focus test built on the Schulte table. It is developed and operated by the developer named on its Google Play store page (“we”, “us”). This Privacy Policy explains what information Focalis collects, how we use and share it, how long we keep it, and the choices you have. By using Focalis you agree to this policy.
+Focalis (“the app”) is a focus test built on the Schulte table. This Privacy Policy explains what information Focalis collects, how we use and share it, how long we keep it, and the choices you have. By using Focalis you agree to this policy.
 
 Questions or requests: focalis.support@gmail.com
 
